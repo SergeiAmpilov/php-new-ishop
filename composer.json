@@ -1,0 +1,19 @@
+{
+  "name": "wfm/ishop",
+  "description": "ishop framework",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sergei Ampilov"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "wfm\\": "vendor/wfm",
+      "app\\": "app"
+    }
+  }
+}
